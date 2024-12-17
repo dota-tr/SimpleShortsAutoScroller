@@ -1,6 +1,6 @@
 # YouTube Shorts Auto Scroll
 
-![YouTube Shorts Auto Scroll](./shorts-page.jpeg)
+![YouTube Shorts Auto Scroll](./images/shorts-page.jpeg)
 
 A Chrome extension that automatically scrolls through YouTube Shorts videos when they finish playing.
 
